@@ -40,7 +40,7 @@
 ***
 >This is what happens when a brand becomes completely delusional about their place in people's lives.
 
-**[Kate Kiefer Lee](https://twitter.com/katekiefer)**, creator of Mailchimp's [voice and tone guide](http://voiceandtone.com/), on tips for writing copy on the web at [An Event Apart](http://aneventapart.com/) San Diego on *May 13th, 2014*.
+**[Kate Kiefer Lee](https://twitter.com/katekiefer)**, creator of Mailchimp's [voice and tone guide](http://voiceandtone.com/), sharing a not so funny story about Charmin's twitter missteps while giving practical tips for representing your brand through copy at [An Event Apart](http://aneventapart.com/) San Diego on *May 13th, 2014*.
 ***
 >Think abstractly, work practically.
 
